@@ -24,7 +24,7 @@ This course covers the design and implementation of data structures including ar
 
 ## Course Resources:
 - [Syllabus and Policies](https://github.com/schatzlab/datastructure2018/policies/)
-- [Piazza Discussion Board](https://piazza.com/jhu/fall2018/en600.226/home)
+- [Piazza Discussion Board](https://piazza.com/jhu/fall2018/600226/home)
 - [Gradescope]()
 - [Instructor materials](https://github.com/schatzlab/datastructure2018-instructors) (Authorized users only)
 
@@ -33,4 +33,4 @@ This course covers the design and implementation of data structures including ar
 ## Schedule
 | # | Date | Lecture | Readings & Resources | Assignment |
 |:--|:-----|:--------|:---------------------|:-----------|
-|1. | Th 8/30 | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/en600226/home) |
+|1. | Th 8/30 | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
