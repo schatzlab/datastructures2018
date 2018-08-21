@@ -23,7 +23,7 @@ This course covers the design and implementation of data structures including ar
   
 
 ## Course Resources:
-- [Syllabus and Policies](https://github.com/schatzlab/datastructures2018/policies/)
+- [Syllabus and Policies](https://github.com/schatzlab/datastructures2018/tree/master/policies)
 - [Piazza Discussion Board](https://piazza.com/jhu/fall2018/600226/home)
 - [Gradescope]()
 - [Instructor materials](https://github.com/schatzlab/datastructures2018-instructors) (Authorized users only)
