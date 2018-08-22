@@ -1,0 +1,20 @@
+# Navigational Shortcuts
+alias cs226="cd ~/Documents/cs226"
+# TODO - add any navigational shortcuts you want
+
+# Java Shortcuts
+alias jc="javac -Xlint:all"
+alias junitc="javac -cp /usr/share/java/junit-4.10.jar:."
+alias junit="java -cp /usr/share/java/junit-4.10.jar:. org.junit.runner.JUnitCore"
+alias check="java -jar /usr/share/java/checkstyle-8.12-all.jar -c ~/Documents/cs226/datastructures2018/resources/cs226_checks.xml"
+
+# Python Shortcuts
+alias py3="python3"
+
+# Windows Commands
+alias dir="ls -l"
+alias cls="clear"
+
+# Typos
+alias claer="clear"
+alias cear="clear"

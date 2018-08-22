@@ -1,13 +1,19 @@
 # Environment Setup
 
-* [Windows](#windows)
-* [MacOS](#macos)
-* [Linux](#linux)
-* [Virtual Machine](#virtual-machine-instructions)
+* [Machine](#machine)
+  * [Windows](#windows)
+  * [MacOS](#macos)
+  * [Linux](#linux)
+  * [Virtual Machine](#virtual-machine-instructions)
+* [Tools](#tools)
+  * [JUnit](#downloading-junit)
+  * [Checkstyle](#downloading-checkstyle)
+* [Optional Development Tools](#optional-development-tools)
 
 You have various options for your machine and environment, but we will expect your programs to compile and run on a Linux machine, so we provide you with an Ubuntu Virtual Machine (VM). You have this option regardless of what your primary computer is, but you have some other options depending on your machine. _Regardless of how you develop we will expect your code to work on our Linux VM._
 
-Whatever terminal you have for developing, you should check your Java version by running the command `$ java -version`. With the right version installed, you should see something like this:
+Whatever terminal you have for developing, you should check your Java version by running the command
+`$ java -version`. With the right version installed, you should see something like this:
 ```
 openjdk version "1.8.0_181"
 OpenJDK Runtime Environment (build 1.8.0_181-...-b13)
@@ -15,8 +21,9 @@ OpenJDK 64-Bit Server VM (build 25.181-b13, mixed mode)
 ```
 Note this is the latest build of Java 8 (as of August, 2018) so you may want to update if you have an older build. Be careful not to accidentally switch to Java 10 since we will be using Java 8.
 
-_You will get confirmation that your code compiled and executed when our auto-grader runs on gradescope_
+_You will get confirmation that your code compiled and executed when our auto-grader runs on gradescope._
 
+## Machine
 ---
 
 ### Windows
@@ -38,3 +45,42 @@ To setup your virtual machine, you will first need some software that can run yo
 Next, you will want to download the VM we have set up.
 
 TODO - specific files and instructions, links, etc...
+
+
+## Tools
+---
+
+### Downloading JUnit
+
+To download JUnit, you can run `$ sudo apt-get install junit4` (JUnit 4 is the version we use but it is not as important as far as writing your own tests). This will install the jar file right to where all of your other jar files should be. You can also retrieve the jar file directly from the JUnit Releases GitHub page [here](https://github.com/junit-team/junit4/releases). Regardless, you should kknow where the jar file is so you can point to this location when you go to run it. For examples of how to run it, see the [test](TODO) folder.
+
+Note that you won't necesarily need JUnit working the first week, but it is good to know in the back of your mind you will need to have it at some point.
+
+### Downloading Checkstyle
+
+Checkstyle can also be a downloaded jar file (among other ways but this is the most straightforward in my opinion). You can retrieve the Checkstyle jar file from the Checkstyle GitHub Releases page [here](https://github.com/checkstyle/checkstyle/releases/)
+
+Checkstyle relies on java with a classpath to this jar file, along with the configuration file (which we have provided [here](TODO).
+
+Note that the Checkstyle enforces documents do not contain any tab characters, it may be worthwhile to find some editor that allows for soft tabs (Atom and Sublime also give functionality to convert tabs to spaces, among editors).
+
+---
+
+## Optional Development Tools
+
+### Editors
+* [Atom](https://atom.io/)
+  Great, customizable editor. Has ability to download and use various tools/packages to fit your use. There are ways to work in linters (such as checkstyle) and terminals in the same window. It also gives some GUI interaction for Git and version control. Totally free.
+* [Sublime Text](https://www.sublimetext.com/download)
+  Sort of a simplistic, light-weight, version of Atom. Looks great, but downloading plugins/packages not as straight-forward. Free but will bug you to buy a license
+* [Notepad++](https://notepad-plus-plus.org/)
+  Very simple, quick, text editor. Windows only.
+
+There are other full-blown IDE's you could experiment with, but a simple text editor should do.
+
+### Version Control
+Note that it is very important you make your repositories private! [GitHub](https://github.com/) is awesome but to make a private repository you must pay. [BitBucket](https://bitbucket.org/) lets you have private repositories without paying. Understand the difference between "Git" the tool, and sites that host Git repositories (such as GitHub and BitBucket).
+
+* [GitHub Desktop](https://desktop.github.com/)
+  Helpful GUI version of Git. Requires a GitHub account though
+* [Git for Windows](https://gitforwindows.org/)
