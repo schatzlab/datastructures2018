@@ -42,10 +42,25 @@ If you have a Linux machine you can likely rely on that for developing as is, bu
 ### Virtual Machine Instructions
 To setup your virtual machine, you will first need some software that can run your virtual machine. Our go-to is [VirtualBox](https://www.virtualbox.org/) which can be downloaded here [here](https://www.virtualbox.org/wiki/Downloads). In VM terminology, the *host* is the machine that you have (that will host our Linux Virtual Machine). So download the host for the OS you have.
 
-Next, you will want to download the VM we have set up.
+Next, you will want to download the VM we have set up. To do so, simply download the tarball [here](link) in this folder, and double-click the cs226.ova file. This should automatically add the machine in VirtualBox with all of the installed tools, but there are still a few things you will want to do.
 
+<<<<<<< HEAD
+The default username is `cs226` and the default password is `password`. You can change these if you'd like, as well as the name of the computer.
+
+First, you'll want to install the virtual box guest additions for this machine. You can follow instructions [here](https://virtualboxes.org/doc/installing-guest-additions-on-ubuntu/) to get the guest additions. This allows for improved graphics, clipboard sharing, etc.
+
+Next, you will want to configure some settings. Launch VirtualBox and single-click (i.e. do not start) the machine you just installed (cs226). Click "Settings", and change the name if you'd like. Select the "Advanced" tab under the "General" screen and change both of "Shared Clipboard" and "Drag'n'Drop" to "Bidirectional". This allows you to copy and paste from host to the VM and vise versa. If you go to the System screen you could change the amount of memory used, it defaults to 2048MB. Click "OK" when done to apply these settings. Now when you boot up the VM you should have this sharing functionality.
+
+For sharing files between the VM and your computer you have a few options. I would reccommend just using Git, but you can also drag and drop, submit directly in the VM, or experiment with shared folders (I haven't dabbled with this so I don't want to give any input).
+
+Some general notes for using the VM
+* Check out `~/.bash_aliases` to see some of the shortcuts I've included and add your own.
+* Customize your terminal by editing `~/.bashrc`
+* Don't ever just exit out of the VM, make sure you power off and let the machine shut down on it's own.
+=======
 TODO - specific files and instructions, links, etc...
 
+>>>>>>> 763c85d378fd3bdfeb26f231615e57f64f7ec5a1
 
 ## Tools
 ---
