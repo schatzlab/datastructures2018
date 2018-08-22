@@ -42,7 +42,7 @@ If you have a Linux machine you can likely rely on that for developing as is, bu
 ### Virtual Machine Instructions
 To setup your virtual machine, you will first need some software that can run your virtual machine. Our go-to is [VirtualBox](https://www.virtualbox.org/) which can be downloaded [here](https://www.virtualbox.org/wiki/Downloads). In VM terminology, the *host* is the machine that you have (that will host our Linux Virtual Machine). So download the host for the OS you have.
 
-Next, you will want to download the VM we have set up. To do so, simply download the tarball [here](link) in this folder, and double-click the cs226.ova file. This should automatically add the machine in VirtualBox with all of the installed tools, but there are still a few things you will want to do.
+Next, you will want to download the VM we have set up. To do so, simply follow [this google drive link](https://drive.google.com/open?id=1-KqSDeAM0srUIeDllNFkC9tHWcLY67I0) (such a large file it can't be in this repository), click the download button, then open the cs226.ova file once installed. This should automatically add the machine in VirtualBox with all of the installed tools, but there are still a few things you will want to do.
 
 The default username is `cs226` and the default password is `password`. You can change these if you'd like, as well as the name of the computer.
 
@@ -62,7 +62,7 @@ Some general notes for using the VM
 
 ### Downloading JUnit
 
-To download JUnit, you can run `$ sudo apt-get install junit4` (JUnit 4 is the version we use but it is not as important as far as writing your own tests). This will install the jar file right to where all of your other jar files should be. You can also retrieve the jar file directly from the JUnit Releases GitHub page [here](https://github.com/junit-team/junit4/releases). Regardless, you should kknow where the jar file is so you can point to this location when you go to run it. For examples of how to run it, see the [test](https://github.com/schatzlab/datastructures2018/tree/tk-resources/resources/environment_setup/test) folder.
+To download JUnit, you can run `$ sudo apt-get install junit4` (JUnit 4 is the version we use but it is not as important as far as writing your own tests). This will install the jar file right to where all of your other jar files should be. You can also retrieve the jar file directly from the JUnit Releases GitHub page [here](https://github.com/junit-team/junit4/releases). Regardless, you should kknow where the jar file is so you can point to its location when you go to run it. For examples of how to run it, see the [test](https://github.com/schatzlab/datastructures2018/tree/tk-resources/resources/environment_setup/test) folder.
 
 Note that you won't necesarily need JUnit working the first week, but it is good to know in the back of your mind you will need to have it at some point.
 
@@ -72,7 +72,7 @@ Checkstyle can also be a downloaded jar file (among other ways but this is the m
 
 Checkstyle relies on java with a classpath to this jar file, along with the configuration file (which we have provided [here](https://github.com/schatzlab/datastructures2018/blob/tk-resources/resources/cs226_checks.xml)).
 
-Note that the Checkstyle enforces documents do not contain any tab characters, it may be worthwhile to find some editor that allows for soft tabs (Atom and Sublime also give functionality to convert tabs to spaces, among editors).
+Note that the Checkstyle enforces documents do not contain any tab characters, it may be worthwhile to find some editor that allows for soft tabs (Atom and Sublime also give functionality to convert tabs to spaces, among others).
 
 ---
 
