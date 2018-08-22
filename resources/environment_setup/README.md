@@ -44,7 +44,6 @@ To setup your virtual machine, you will first need some software that can run yo
 
 Next, you will want to download the VM we have set up. To do so, simply download the tarball [here](link) in this folder, and double-click the cs226.ova file. This should automatically add the machine in VirtualBox with all of the installed tools, but there are still a few things you will want to do.
 
-<<<<<<< HEAD
 The default username is `cs226` and the default password is `password`. You can change these if you'd like, as well as the name of the computer.
 
 First, you'll want to install the virtual box guest additions for this machine. You can follow instructions [here](https://virtualboxes.org/doc/installing-guest-additions-on-ubuntu/) to get the guest additions. This allows for improved graphics, clipboard sharing, etc.
@@ -57,10 +56,6 @@ Some general notes for using the VM
 * Check out `~/.bash_aliases` to see some of the shortcuts I've included and add your own.
 * Customize your terminal by editing `~/.bashrc`
 * Don't ever just exit out of the VM, make sure you power off and let the machine shut down on it's own.
-=======
-TODO - specific files and instructions, links, etc...
-
->>>>>>> 763c85d378fd3bdfeb26f231615e57f64f7ec5a1
 
 ## Tools
 ---
