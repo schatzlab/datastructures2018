@@ -62,7 +62,7 @@ Some general notes for using the VM
 
 ### Downloading JUnit
 
-To download JUnit, you can run `$ sudo apt-get install junit4` (JUnit 4 is the version we use but it is not as important as far as writing your own tests). This will install the jar file right to where all of your other jar files should be. You can also retrieve the jar file directly from the JUnit Releases GitHub page [here](https://github.com/junit-team/junit4/releases). Regardless, you should kknow where the jar file is so you can point to this location when you go to run it. For examples of how to run it, see the [test](TODO) folder.
+To download JUnit, you can run `$ sudo apt-get install junit4` (JUnit 4 is the version we use but it is not as important as far as writing your own tests). This will install the jar file right to where all of your other jar files should be. You can also retrieve the jar file directly from the JUnit Releases GitHub page [here](https://github.com/junit-team/junit4/releases). Regardless, you should kknow where the jar file is so you can point to this location when you go to run it. For examples of how to run it, see the [test](https://github.com/schatzlab/datastructures2018/tree/tk-resources/resources/environment_setup/test) folder.
 
 Note that you won't necesarily need JUnit working the first week, but it is good to know in the back of your mind you will need to have it at some point.
 
@@ -70,7 +70,7 @@ Note that you won't necesarily need JUnit working the first week, but it is good
 
 Checkstyle can also be a downloaded jar file (among other ways but this is the most straightforward in my opinion). You can retrieve the Checkstyle jar file from the Checkstyle GitHub Releases page [here](https://github.com/checkstyle/checkstyle/releases/)
 
-Checkstyle relies on java with a classpath to this jar file, along with the configuration file (which we have provided [here](TODO).
+Checkstyle relies on java with a classpath to this jar file, along with the configuration file (which we have provided [here](https://github.com/schatzlab/datastructures2018/blob/tk-resources/resources/cs226_checks.xml)).
 
 Note that the Checkstyle enforces documents do not contain any tab characters, it may be worthwhile to find some editor that allows for soft tabs (Atom and Sublime also give functionality to convert tabs to spaces, among editors).
 
