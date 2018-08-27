@@ -31,6 +31,51 @@ This course covers the design and implementation of data structures including ar
 
 
 ## Schedule
-| # | Date | Lecture | Readings & Resources | Assignment |
-|:--|:-----|:--------|:---------------------|:-----------|
-|1. | Th 8/30 | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
+| #  | Date      | Lecture      | Readings & Resources | Assignment |
+|:---|:----------|:-------------|:---------------------|:-----------|
+|1.  | Th 8/30   | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
+|2.  | Fr 8/31   | 
+|    | Mon 9/3   | Labor Day - No class
+|3.  | Wed 9/5   | 
+|4.  | Fri 9/7   |
+|5.  | Mon 9/10  |
+|6.  | Wed 9/12  |
+|7.  | Fri 9/14  |
+|8.  | Mon 9/17  |
+|9.  | Wed 9/19  |
+|10. | Fri 9/21  |
+|11. | Mon 9/24  |
+|12. | Wed 9/26  |
+|13. | Fri 9/28  |
+|14. | Mon 10/1  |
+|15. | Wed 10/3  |
+|16. | Fri 10/5  |
+|17. | Mon 10/8  |
+|18. | Wed 10/10 |
+|19. | Fri 10/12 |
+|20. | Mon 10/15 |
+|21. | Wed 10/17 |
+|22. | Fri 10/19 |
+|23. | Mon 10/22 |
+|24. | Wed 10/24 |
+|25. | Fri 10/26 |
+|26. | Mon 10/29 |
+|27. | Wed 10/31 |
+|28. | Fri 11/2  |
+|29. | Mon 11/5  |
+|30. | Wed 11/7  |
+|31. | Fri 11/9  |
+|32. | Mon 11/12 |
+|33. | Wed 11/14 |
+|34. | Fri 11/16 |
+|    | Mon 11/19 | Thanksgiving break
+|    | Wed 11/21 | Thanksgiving break
+|    | Fri 11/23 | Thanksgiving break
+|35. | Mon 11/26 | 
+|36. | Wed 11/28 | 
+|37. | Fri 11/30 |
+|38. | Mon 12/3  |
+|39. | Wed 12/5  |
+|40. | Fri 12/7  |
+
+
