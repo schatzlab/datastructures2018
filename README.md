@@ -37,13 +37,13 @@ This course covers the design and implementation of data structures including ar
 |2.  | Fr 8/31   | Interfaces   || HW 1 Assigned
 |    | Mon 9/3   | **Labor Day - No class**
 |3.  | Wed 9/5   | Arrays, Generics, and Exceptions
-|4.  | Fri 9/7   | More Arrays
+|4.  | Fri 9/7   | More Arrays || HW 2 Assigned
 |5.  | Mon 9/10  | Lists
 |6.  | Wed 9/12  | Iterators
-|7.  | Fri 9/14  | Junit and Complexity Analysis
+|7.  | Fri 9/14  | Junit and Complexity Analysis || HW 3 Assigned
 |8.  | Mon 9/17  | Sorting
 |9.  | Wed 9/19  | Stacks
-|10. | Fri 9/21  | Stacks and Queues
+|10. | Fri 9/21  | Stacks and Queues || HW4 Assigned
 |11. | Mon 9/24  | Stacks, Queues, and Deques
 |12. | Wed 9/26  | Lists
 |13. | Fri 9/28  | More Lists
@@ -52,28 +52,28 @@ This course covers the design and implementation of data structures including ar
 |16. | Fri 10/5  | **Midterm!**
 |17. | Mon 10/8  | Trees
 |18. | Wed 10/10 | More Trees
-|19. | Fri 10/12 | Graphs
+|19. | Fri 10/12 | Graphs || HW5 Assigned
 |20. | Mon 10/15 | Graph Searching
 |21. | Wed 10/17 | Sets
 |    | Fri 10/19 | **Fall Break**
 |22. | Mon 10/22 | Ordered Sets
 |23. | Wed 10/24 | Priority Queues and Heaps
-|24. | Fri 10/26 | Sets of integers, bitsets
+|24. | Fri 10/26 | Sets of integers, bitsets || HW6 Assigned
 |25. | Mon 10/29 | Maps and BSTs
 |26. | Wed 10/31 | AVL Trees
-|27. | Fri 11/2  | Treaps
+|27. | Fri 11/2  | Treaps || HW7 Assigned
 |28. | Mon 11/5  | Hash Tables
 |29. | Wed 11/7  | More Hash Tables
-|30. | Fri 11/9  | Advances Hash Tables
+|30. | Fri 11/9  | Advances Hash Tables || HW8 Assigned
 |31. | Mon 11/12 | Suffix Arrays
 |32. | Wed 11/14 | Burrow Wheeler Transform
-|33. | Fri 11/16 | Burrow Wheeler Transform 2
+|33. | Fri 11/16 | Burrow Wheeler Transform 2 || HW9 Assigned
 |    | Mon 11/19 | **Thanksgiving break**
 |    | Wed 11/21 | **Thanksgiving break**
 |    | Fri 11/23 | **Thanksgiving break**
 |34. | Mon 11/26 | Advanced sorting
 |35. | Wed 11/28 | Linear time sorting, Topological sorting
-|36. | Fri 11/30 | Shortest Path Problem
+|36. | Fri 11/30 | Shortest Path Problem || HW10 Assigned
 |37. | Mon 12/3  | Minimum Spanning trees
 |38. | Wed 12/5  | Union Find
 |39. | Fri 12/7  | Last Day of Class - Review!
