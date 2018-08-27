@@ -34,49 +34,49 @@ This course covers the design and implementation of data structures including ar
 | #  | Date      | Lecture      | Readings & Resources | Assignment |
 |:---|:---------:|:-------------|:---------------------|:-----------|
 |1.  | Th 8/30   | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
-|2.  | Fr 8/31   | || HW 1 Assigned
+|2.  | Fr 8/31   | Interfaces   || HW 1 Assigned
 |    | Mon 9/3   | Labor Day - No class
-|3.  | Wed 9/5   | 
-|4.  | Fri 9/7   |
-|5.  | Mon 9/10  |
-|6.  | Wed 9/12  |
-|7.  | Fri 9/14  |
-|8.  | Mon 9/17  |
-|9.  | Wed 9/19  |
-|10. | Fri 9/21  |
-|11. | Mon 9/24  |
-|12. | Wed 9/26  |
-|13. | Fri 9/28  |
-|14. | Mon 10/1  |
-|15. | Wed 10/3  |
-|16. | Fri 10/5  |
-|17. | Mon 10/8  |
-|18. | Wed 10/10 |
-|19. | Fri 10/12 |
-|20. | Mon 10/15 |
-|21. | Wed 10/17 |
-|22. | Fri 10/19 |
-|23. | Mon 10/22 |
-|24. | Wed 10/24 |
-|25. | Fri 10/26 |
-|26. | Mon 10/29 |
-|27. | Wed 10/31 |
-|28. | Fri 11/2  |
-|29. | Mon 11/5  |
-|30. | Wed 11/7  |
-|31. | Fri 11/9  |
-|32. | Mon 11/12 |
-|33. | Wed 11/14 |
-|34. | Fri 11/16 |
+|3.  | Wed 9/5   | Arrays, Generics, and Exceptions
+|4.  | Fri 9/7   | More Arrays
+|5.  | Mon 9/10  | Lists
+|6.  | Wed 9/12  | Iterators
+|7.  | Fri 9/14  | Junit and Complexity Analysis
+|8.  | Mon 9/17  | Sorting
+|9.  | Wed 9/19  | Stacks
+|10. | Fri 9/21  | Stacks and Queues
+|11. | Mon 9/24  | Stacks, Queues, and Deques
+|12. | Wed 9/26  | Lists
+|13. | Fri 9/28  | More Lists
+|14. | Mon 10/1  | Midterm Review 1
+|15. | Wed 10/3  | Midterm Review 2
+|16. | Fri 10/5  | Midterm!
+|17. | Mon 10/8  | Trees
+|18. | Wed 10/10 | More Trees
+|19. | Fri 10/12 | Graphs
+|20. | Mon 10/15 | Graph Searching
+|21. | Wed 10/17 | Sets
+|    | Fri 10/19 | Fall Break
+|22. | Mon 10/22 | Ordered Sets
+|23. | Wed 10/24 | Priority Queues and Heaps
+|24. | Fri 10/26 | Sets of integers, bitsets
+|25. | Mon 10/29 | Maps and BSTs
+|26. | Wed 10/31 | AVL Trees
+|27. | Fri 11/2  | Treaps
+|28. | Mon 11/5  | Hash Tables
+|29. | Wed 11/7  | More Hash Tables
+|30. | Fri 11/9  | Advances Hash Tables
+|31. | Mon 11/12 | Suffix Arrays
+|32. | Wed 11/14 | Burrow Wheeler Transform
+|33. | Fri 11/16 | Burrow Wheeler Transform
 |    | Mon 11/19 | Thanksgiving break
 |    | Wed 11/21 | Thanksgiving break
 |    | Fri 11/23 | Thanksgiving break
-|35. | Mon 11/26 | 
-|36. | Wed 11/28 | 
-|37. | Fri 11/30 |
-|38. | Mon 12/3  |
-|39. | Wed 12/5  |
-|40. | Fri 12/7  |
+|34. | Mon 11/26 | Advanced sorting
+|35. | Wed 11/28 | Linear time sorting, Topological sorting
+|36. | Fri 11/30 | Shortest Path Problem
+|37. | Mon 12/3  | Minimum Spanning trees
+|38. | Wed 12/5  | Union Find
+|39. | Fri 12/7  | Last Day of Class - Review!
 |    | TBD       | Final Exam
 
 
