@@ -32,7 +32,7 @@ This course covers the design and implementation of data structures including ar
 
 ## Schedule
 | #  | Date      | Lecture      | Readings & Resources | Assignment |
-|:---|:----------|:-------------|:---------------------|:-----------|
+|:---|:---------:|:-------------|:---------------------|:-----------|
 |1.  | Th 8/30   | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
 |2.  | Fr 8/31   | || HW 1 Assigned
 |    | Mon 9/3   | Labor Day - No class
