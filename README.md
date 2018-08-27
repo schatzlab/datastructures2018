@@ -35,7 +35,7 @@ This course covers the design and implementation of data structures including ar
 |:---|:---------:|:-------------|:---------------------|:-----------|
 |1.  | Th 8/30   | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
 |2.  | Fr 8/31   | Interfaces   || HW 1 Assigned
-|    | Mon 9/3   | Labor Day - No class
+|    | Mon 9/3   | **Labor Day - No class**
 |3.  | Wed 9/5   | Arrays, Generics, and Exceptions
 |4.  | Fri 9/7   | More Arrays
 |5.  | Mon 9/10  | Lists
@@ -49,13 +49,13 @@ This course covers the design and implementation of data structures including ar
 |13. | Fri 9/28  | More Lists
 |14. | Mon 10/1  | Midterm Review 1
 |15. | Wed 10/3  | Midterm Review 2
-|16. | Fri 10/5  | Midterm!
+|16. | Fri 10/5  | **Midterm!**
 |17. | Mon 10/8  | Trees
 |18. | Wed 10/10 | More Trees
 |19. | Fri 10/12 | Graphs
 |20. | Mon 10/15 | Graph Searching
 |21. | Wed 10/17 | Sets
-|    | Fri 10/19 | Fall Break
+|    | Fri 10/19 | **Fall Break**
 |22. | Mon 10/22 | Ordered Sets
 |23. | Wed 10/24 | Priority Queues and Heaps
 |24. | Fri 10/26 | Sets of integers, bitsets
@@ -67,16 +67,16 @@ This course covers the design and implementation of data structures including ar
 |30. | Fri 11/9  | Advances Hash Tables
 |31. | Mon 11/12 | Suffix Arrays
 |32. | Wed 11/14 | Burrow Wheeler Transform
-|33. | Fri 11/16 | Burrow Wheeler Transform
-|    | Mon 11/19 | Thanksgiving break
-|    | Wed 11/21 | Thanksgiving break
-|    | Fri 11/23 | Thanksgiving break
+|33. | Fri 11/16 | Burrow Wheeler Transform 2
+|    | Mon 11/19 | **Thanksgiving break**
+|    | Wed 11/21 | **Thanksgiving break**
+|    | Fri 11/23 | **Thanksgiving break**
 |34. | Mon 11/26 | Advanced sorting
 |35. | Wed 11/28 | Linear time sorting, Topological sorting
 |36. | Fri 11/30 | Shortest Path Problem
 |37. | Mon 12/3  | Minimum Spanning trees
 |38. | Wed 12/5  | Union Find
 |39. | Fri 12/7  | Last Day of Class - Review!
-|    | TBD       | Final Exam
+|    | TBD       | **Final Exam**
 
 
