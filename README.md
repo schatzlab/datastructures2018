@@ -34,27 +34,27 @@ This course covers the design and implementation of data structures including ar
 | #  | Date      | Lecture      | Readings & Resources | Assignment |
 |:---|:---------:|:-------------|:---------------------|:-----------|
 |1.  | Th 8/30   | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
-|2.  | Fr 8/31   | Interfaces   || HW 1 Assigned
+|2.  | Fr 8/31   | Interfaces   
 |    | Mon 9/3   | **Labor Day - No class**
 |3.  | Wed 9/5   | Arrays, Generics, and Exceptions
-|4.  | Fri 9/7   | More Arrays || HW 2 Assigned
+|4.  | Fri 9/7   | More Arrays || HW 1 Assigned
 |5.  | Mon 9/10  | Lists
 |6.  | Wed 9/12  | Iterators
-|7.  | Fri 9/14  | Junit and Complexity Analysis || HW 3 Assigned
+|7.  | Fri 9/14  | Junit and Complexity Analysis || HW 2 Assigned
 |8.  | Mon 9/17  | Sorting
 |9.  | Wed 9/19  | Stacks
-|10. | Fri 9/21  | Stacks and Queues || HW4 Assigned
+|10. | Fri 9/21  | Stacks and Queues || HW3 Assigned
 |11. | Mon 9/24  | Stacks, Queues, and Deques
 |12. | Wed 9/26  | Lists
-|13. | Fri 9/28  | More Lists
-|14. | Mon 10/1  | Midterm Review 1
-|15. | Wed 10/3  | Midterm Review 2
-|16. | Fri 10/5  | **Midterm!**
-|17. | Mon 10/8  | Trees
-|18. | Wed 10/10 | More Trees
-|19. | Fri 10/12 | Graphs || HW5 Assigned
+|13. | Fri 9/28  | More Lists || HW4 Assigned
+|14. | Mon 10/1  | Trees
+|15. | Wed 10/3  | More Trees
+|16. | Fri 10/5  | Graphs 
+|17. | Mon 10/8  | Midterm Review 1
+|18. | Wed 10/10 | Midterm Review 2
+|19. | Fri 10/12 | **Midterm!**
 |20. | Mon 10/15 | Graph Searching
-|21. | Wed 10/17 | Sets
+|21. | Wed 10/17 | Sets || HW5 Assigned
 |    | Fri 10/19 | **Fall Break**
 |22. | Mon 10/22 | Ordered Sets
 |23. | Wed 10/24 | Priority Queues and Heaps
