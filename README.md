@@ -19,14 +19,43 @@ This course covers the design and implementation of data structures including ar
 - Recommended Prerequisites
   - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
   - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
-  - Access to a Linux Machine, and/or Install [VirtualBox](https://github.com/schatzlab/appliedgenomics2018/blob/master/assignments/virtualbox.md) (Unfortuantely, even Mac will not work correctly for some programs)
   
-
 ## Course Resources:
 - [Syllabus and Policies](https://github.com/schatzlab/datastructures2018/tree/master/policies)
 - [Piazza Discussion Board](https://piazza.com/jhu/fall2018/600226/home)
 - [Gradescope](https://www.gradescope.com/courses/22378) Entry Code: MDJYER
 - [Instructor materials](https://github.com/schatzlab/datastructures2018-instructors) (Authorized users only)
+
+## Recommended Readings
+- Algorithms and Data Structures
+  - Shaffer, Cliff: [OpenDSA](https://opendsa.cs.vt.edu/ODSA/Books/Everything/html). Interactive online text. (An [older version](http://people.cs.vt.edu/shaffer/Book/) is available in print if you prefer that.)
+  - Sedgewick, Wayne: [Algorithms](http://algs4.cs.princeton.edu/). Fourth Edition, [Pearson](https://www.pearson.com/), 2011. Also available [online at JHU](https://catalyst.library.jhu.edu/catalog/bib_5721753).
+  - Cormen, Leiserson, Rivest, Stein: [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms). Third Edition, [MIT Press](https://mitpress.mit.edu/books/introduction-algorithms), 2009. Also available [online at JHU](https://catalyst.library.jhu.edu/catalog/bib_5707144). (This text is often required for 600.363 / 463: Introduction to Algorithms.)
+  - Weiss: [Data Structures and Algorithm Analysis in Java](https://www.pearsonhighered.com/program/Weiss-Data-Structures-and-Algorithm-Analysis-in-Java-3rd-Edition/PGM324443.html) Third Edition, [Pearson](https://www.pearson.com/), 2012.
+
+- Programming in Java
+  - Dean, Dean: [Introduction to Programming with Java: A Problem Solving Approach](http://highered.mheducation.com/sites/0073047023/index.html). Second Edition, [McGraw-Hill](http://www.mheducation.com/), 2013. (This text has recently served as the required text for 600.107: Introductory Programming in Java.)
+  - Sestoft: [Java Precisely](https://itu.dk/~sestoft/javaprecisely/). Third Edition, [MIT Press](https://mitpress.mit.edu/books/java-precisely-0), 2016.
+  - Deitel, Deitel: [Java How to Program](https://www.pearsonhighered.com/product/Deitel-Java-How-to-Program-early-objects-9th-Edition/9780132575669.html). Ninth Edition, [Pearson](https://www.pearson.com/), 2012. Also available [online at JHU](https://catalyst.library.jhu.edu/catalog/bib_5723158).
+  - Flanagan: [Java in a Nutshell](http://shop.oreilly.com/product/9780596007737.do). Fifth Edition, [O’Reilly](http://www.oreilly.com/), 2005.
+
+## Other Resources
+-Algorithms and Data Structures
+  - [algoviz.org](http://algoviz.org/) collection of visualizations for various data structures and algorithms
+
+- Programming in Java
+  - [Java 8 API](http://java.sun.com/javase/8/docs/api) description of Java classes and methods
+  - [Code Examples](http://www.cs.jhu.edu/~joanne/cs107/code) from Intro Programming in Java (600.107); look in the sub-directories for examples of each topic.
+  - [Checkstyle Overview](https://www.cs.jhu.edu/~joanne/checkstyle.txt) briefly discusses several issues around `checkstyle` that you may run into
+
+- Unix and Linux
+  - Joanne’s [CS@JH Account Basics](http://cs.jhu.edu/~joanne/csunix.html)
+  - Joanne’s [Unix Overview](http://cs.jhu.edu/~joanne/unix.html) describes key commands
+  - An excellent [Unix Tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+  - A printable [Unix Reference Card](http://cs.jhu.edu/~joanne/unixRC.pdf)
+  - Learning emacs: [Reference Card](http://cs.jhu.edu/~joanne/emacsRC1.pdf), [Beginner’s Tutorial](http://jeremy.zawodny.com/emacs/emacs.html), [GNU Emacs Tutorial](http://www.gnu.org/software/emacs/tour/), [GNU Emacs Reference Card](http://cs.jhu.edu/~joanne/emacsRC2.pdf)
+  - Learning nano: [Nano Tutorial](http://staffwww.fullcoll.edu/sedwards/Nano/IntroToNano.html), [GNU Nano Website](https://www.nano-editor.org/)
+  - Learning vi: [Reference Card](http://tnerual.eriogerg.free.fr/vimqrc.pdf), [Beginner’s Guide](https://www.linux.com/learn/vim-101-beginners-guide-vim), [Cheat Sheet Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html), [Interactive Tutorial](http://www.openvim.com/)
 
 
 
