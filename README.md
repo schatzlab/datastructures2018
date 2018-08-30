@@ -40,7 +40,7 @@ This course covers the design and implementation of data structures including ar
   - Flanagan: [Java in a Nutshell](http://shop.oreilly.com/product/9780596007737.do). Fifth Edition, [O’Reilly](http://www.oreilly.com/), 2005.
 
 ## Other Resources
--Algorithms and Data Structures
+- Algorithms and Data Structures
   - [algoviz.org](http://algoviz.org/) collection of visualizations for various data structures and algorithms
 
 - Programming in Java
