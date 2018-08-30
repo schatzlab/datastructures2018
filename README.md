@@ -62,7 +62,7 @@ This course covers the design and implementation of data structures including ar
 ## Schedule
 | #  | Date      | Lecture      | Readings & Resources | Assignment |
 |:---|:---------:|:-------------|:---------------------|:-----------|
-|1.  | Th 8/30   | Introduction | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
+|1.  | Th 8/30   | [Introduction](http://schatz-lab.org/datastructures2018/lectures/01.Intro.pdf) | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
 |2.  | Fr 8/31   | Interfaces   
 |    | Mon 9/3   | **Labor Day - No class**
 |3.  | Wed 9/5   | Arrays, Generics, and Exceptions
