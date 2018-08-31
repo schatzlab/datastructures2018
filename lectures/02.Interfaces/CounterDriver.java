@@ -1,4 +1,4 @@
-public class CounterTest {
+public class CounterDriver {
     public static void main(String[] args)
     {
         Counter c = null;
