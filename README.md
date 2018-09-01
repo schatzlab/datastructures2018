@@ -5,6 +5,8 @@ Class Hours: Monday + Wednesday + Friday @ 1:30p - 2:45p in Mudd 26 <br>
 Schatz Office Hours: Wednesday @ 3-4p in Malone 323 and by appointment <br>
 
 ### Office Hours
+| Contact | Title | Office Hours | Location |
+| ------- | ----- | ------------ | -------- |
 | Michael Schatz | Professor | Wednesday 3-4 PM | Malone 323 |
 | Tim Kutcher | Head TA | Tuesday 6-7 PM, Thursday 12-1 PM | Malone 122 (Ugrad Lab) |
 
