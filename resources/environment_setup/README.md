@@ -80,7 +80,7 @@ Note that the Checkstyle enforces documents do not contain any tab characters, i
 
 ### Editors
 * [Atom](https://atom.io/)
-  Great, customizable editor. Has ability to download and use various tools/packages to fit your use. There are ways to work in linters (such as checkstyle) and terminals in the same window. It also gives some GUI interaction for Git and version control. Totally free.
+  Great, customizable editor. Has ability to download and use various tools/packages to fit your use. There are ways to work in linters (such as checkstyle) and terminals in the same window. It also gives some GUI interaction for Git and version control. Totally free. Community driven, tends to be a little buggy. I've noticed some issues in the Java syntax highlighting.
 * [Sublime Text](https://www.sublimetext.com/download)
   Sort of a simplistic, light-weight, version of Atom. Looks great, but downloading plugins/packages not as straight-forward. Free but will bug you to buy a license
 * [Notepad++](https://notepad-plus-plus.org/)
