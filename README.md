@@ -2,13 +2,15 @@
 Prof: [Michael Schatz](http://schatz-lab.org) (mschatz @ cs.jhu.edu) <br>
 Head TA: [Tim Kutcher](https://github.com/tkutche1) (tkutche1 @ jhu.edu) <br>
 Class Hours: Monday + Wednesday + Friday @ 1:30p - 2:45p in Mudd 26 <br>
-Schatz Office Hours: Wednesday @ 3-4p in Malone 323 and by appointment <br>
+
 
 ### Office Hours
 | Contact | Title | Office Hours | Location |
 | ------- | ----- | ------------ | -------- |
-| Michael Schatz | Professor | Wednesday 3-4 PM | Malone 323 |
+| Michael Schatz | Professor | Wednesday 3-4 PM, and by appointment | Malone 323 |
 | Tim Kutcher | Head TA | Tuesday 6-7 PM, Thursday 12-1 PM | Malone 122 (Ugrad Lab) |
+
+---
 
 **The primary goal of the course is for students to be grounded in theory and leave the course empowered to understand and implement a variety of key data structures.** 
 This course covers the design and implementation of data structures including arrays, stacks, queues, linked lists, binary trees, heaps, balanced trees (e.g. 2-3 trees, AVL-trees) and graphs. Other topics include sorting, hashing, memory allocation, and garbage collection. Course work involves both written homework and Java programming assignments. 
