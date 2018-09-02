@@ -70,7 +70,7 @@ Note that you won't necesarily need JUnit working the first week, but it is good
 
 Checkstyle can also be a downloaded jar file (among other ways but this is the most straightforward in my opinion). You can retrieve the Checkstyle jar file from the Checkstyle GitHub Releases page [here](https://github.com/checkstyle/checkstyle/releases/)
 
-Checkstyle relies on java with a classpath to this jar file, along with the configuration file (which we have provided [here](https://github.com/schatzlab/datastructures2018/blob/tk-resources/resources/cs226_checks.xml)).
+Checkstyle relies on java with a classpath to this jar file, along with the configuration file (which we have provided [here](https://github.com/schatzlab/datastructures2018/blob/master/resources/cs226_checks.xml)).
 
 Note that the Checkstyle enforces documents do not contain any tab characters, it may be worthwhile to find some editor that allows for soft tabs (Atom and Sublime also give functionality to convert tabs to spaces, among others).
 
