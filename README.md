@@ -9,6 +9,7 @@ Class Hours: Monday + Wednesday + Friday @ 1:30p - 2:45p in Mudd 26 <br>
 | ------- | ----- | ------------ | -------- |
 | Michael Schatz | Professor | Wednesday 3-4 PM, and by appointment | Malone 323 |
 | Tim Kutcher | Head TA | Tuesday 6-7 PM, Thursday 12-1 PM | Malone 122 (Ugrad Lab) |
+| Brandon Lim | CA | Mondays 11 AM - 1:30 PM | Malone 122 (Ugrad Lab) |
 
 ---
 
