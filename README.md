@@ -10,6 +10,7 @@ Class Hours: Monday + Wednesday + Friday @ 1:30p - 2:45p in Mudd 26 <br>
 | Michael Schatz | Professor | Wednesday 3-4 PM, and by appointment | Malone 323 |
 | Tim Kutcher | Head TA | Tuesday 6-7 PM, Thursday 12-1 PM | Malone 122 (Ugrad Lab) |
 | Brandon Lim | CA | Mondays 11 AM - 1:30 PM | Malone 122 (Ugrad Lab) |
+| Joanna Guo | CA | Tuesday 12-1 PM, Tuesday 3:45-4:45 PM | Malone 122 (Ugrad Lab) |
 | Julia Oppenheim | CA | Thursday 4:30 - 5:30 PM, Friday 10 - 11 AM | Malone 122 (Ugrad Lab) |
 | Randy Kuang | CA | Thursday 10:30 AM - 12:30 PM | Malone 122 (Ugrad Lab) |
 | Anil Palepu | CA | Tuesday 2 PM - 4:30 PM | Malone 122 (Ugrad Lab) |
