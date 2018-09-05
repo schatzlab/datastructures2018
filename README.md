@@ -74,7 +74,7 @@ This course covers the design and implementation of data structures including ar
 |1.  | Th 8/30   | [Introduction](http://schatz-lab.org/datastructures2018/lectures/01.Intro.pdf) | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
 |2.  | Fr 8/31   | [Interfaces](http://schatz-lab.org/datastructures2018/lectures/02.Interfaces.pdf)  | [Java Interfaces](http://tutorials.jenkov.com/java/interfaces.html) | [Set up VirtualBox](https://github.com/schatzlab/datastructures2018/tree/master/resources/environment_setup)  
 |    | Mon 9/3   | **Labor Day - No class**
-|3.  | Wed 9/5   | Arrays, Generics, and Exceptions
+|3.  | Wed 9/5   | Arrays, Generics, and Exceptions | [Java Generics](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
 |4.  | Fri 9/7   | More Arrays || HW 1 Assigned
 |5.  | Mon 9/10  | Lists
 |6.  | Wed 9/12  | Iterators
