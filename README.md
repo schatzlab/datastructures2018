@@ -10,9 +10,13 @@ Class Hours: Monday + Wednesday + Friday @ 1:30p - 2:45p in Mudd 26 <br>
 | Michael Schatz | Professor | Wednesday 3-4 PM, and by appointment | Malone 323 |
 | Tim Kutcher | Head TA | Tuesday 6-7 PM, Thursday 12-1 PM | Malone 122 (Ugrad Lab) |
 | Brandon Lim | CA | Mondays 11 AM - 1:30 PM | Malone 122 (Ugrad Lab) |
+| Joanna Guo | CA | Tuesday 12-1 PM, Tuesday 3:45-4:45 PM | Malone 122 (Ugrad Lab) |
+| Taha Baig | CA | Monday 1:45-2:45 PM, Wednesday 9:55-10:55 AM | Malone 122 (Ugrad Lab) |
 | Julia Oppenheim | CA | Thursday 4:30 - 5:30 PM, Friday 10 - 11 AM | Malone 122 (Ugrad Lab) |
-| Randy Kuang | CA | Thursday 10:30 AM - 12:30 PM | Malone 122 (Ugrad Lab) |
+| Randy Kuang | CA | Thursday 10:30 AM - 11:30 AM, Friday 11 AM - 12 PM | Malone 122 (Ugrad Lab) |
 | Anil Palepu | CA | Tuesday 2 PM - 4:30 PM | Malone 122 (Ugrad Lab) |
+| Darius Irani | CA | Thursday 7 PM - 9 PM | Malone 122 (Ugrad Lab) |
+| Youngsoo Sung | CA | Tuesday 10 AM - 12 PM | Malone 122 (Ugrad Lab) |
 
 ---
 
@@ -77,7 +81,7 @@ This course covers the design and implementation of data structures including ar
 |1.  | Th 8/30   | [Introduction](http://schatz-lab.org/datastructures2018/lectures/01.Intro.pdf) | | [Sign Up for Piazza](https://piazza.com/jhu/fall2018/600226/home) |
 |2.  | Fr 8/31   | [Interfaces](http://schatz-lab.org/datastructures2018/lectures/02.Interfaces.pdf)  | [Java Interfaces](http://tutorials.jenkov.com/java/interfaces.html) | [Set up VirtualBox](https://github.com/schatzlab/datastructures2018/tree/master/resources/environment_setup)  
 |    | Mon 9/3   | **Labor Day - No class**
-|3.  | Wed 9/5   | Arrays, Generics, and Exceptions | [Java Generics](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
+|3.  | Wed 9/5   | [Arrays, Generics, and Exceptions](http://schatz-lab.org/datastructures2018/lectures/03.ArraysGenericsExceptions.pdf) | [Java Generics](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
 |4.  | Fri 9/7   | More Arrays || HW 1 Assigned
 |5.  | Mon 9/10  | Lists
 |6.  | Wed 9/12  | Iterators
