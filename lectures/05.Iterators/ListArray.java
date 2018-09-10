@@ -11,7 +11,7 @@ import java.util.Iterator;
 */
 public class ListArray<T> implements Array<T> {
     // A nested Node<T> class to build our linked list out of. We use a
-    // nested class (instead of an inner class) here since we don't need
+    // static nested class (instead of an inner class) here since we don't need
     // access to the ListArray object we're part of.
     private static class Node<T> {
         T data;
@@ -132,8 +132,7 @@ public class ListArray<T> implements Array<T> {
         ListArray<String> mylist = new ListArray(5, "Mike");
 
         System.out.println("Created array of length: " + mylist.length());
-        for (int i = 0; i < mylist.length(); i++)
-        {
+        for (int i = 0; i < mylist.length(); i++) {
             String val = mylist.get(i);
             System.out.println("mylist[" + i + "]: " + val);
         }
@@ -142,18 +141,30 @@ public class ListArray<T> implements Array<T> {
 
         System.out.println("Printing Array after setting mylist[3]=Peter");
 
-        for (int i = 0; i < mylist.length(); i++)
-        {
+        for (int i = 0; i < mylist.length(); i++) {
             String val = mylist.get(i);
             System.out.println("mylist[" + i + "]: " + val);
         }
 
         System.out.println("Printing Array with Iterator");
-
-        for (String val : mylist) 
-        {
+        Iterator<String> it = mylist.iterator();
+        while (it.hasNext()) {
+		    String val = it.next();
             System.out.println(val);
         }
+
+        //System.out.println("Printing Array with Iterator (using true)");
+        //it = mylist.iterator();
+        //while (true) {
+        //  String val = it.next();
+        //  System.out.println(val);
+        //}
+
+
+        //System.out.println("Printing Array with foreach");
+        //for (String val : mylist) {
+        //    System.out.println(val);
+        //}
     }
 
 }
