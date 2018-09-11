@@ -84,9 +84,9 @@ This course covers the design and implementation of data structures including ar
 |    | Mon 9/3   | **Labor Day - No class**
 |3.  | Wed 9/5   | [Arrays, Generics, and Exceptions](http://schatz-lab.org/datastructures2018/lectures/03.ArraysGenericsExceptions.pdf) | [Java Generics](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
 |4.  | Fri 9/7   | [Lists](http://schatz-lab.org/datastructures2018/lectures/04.Lists.pdf) | [Java References](https://docs.oracle.com/javase/tutorial/java/javaOO/usingobject.html) | [HW 1 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment01)
-|5.  | Mon 9/10  | More Lists
-|6.  | Wed 9/12  | Iterators
-|7.  | Fri 9/14  | Junit and Complexity Analysis || HW 2 Assigned
+|5.  | Mon 9/10  | [Iterators](http://schatz-lab.org/datastructures2018/lectures/05.Iterators.pdf) | [Nested Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
+|6.  | Wed 9/12  | Complexity Analysis
+|7.  | Fri 9/14  | Junit || HW 2 Assigned
 |8.  | Mon 9/17  | Sorting
 |9.  | Wed 9/19  | Stacks
 |10. | Fri 9/21  | Stacks and Queues || HW3 Assigned
