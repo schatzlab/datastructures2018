@@ -33,13 +33,16 @@ public class List {
     mylist.add("Mike");
     mylist.add("Peter");
     mylist.add("Kelly");
+    mylist.add("Sydney");
+    mylist.add("Katherine");
+    mylist.add("James");
 
     StringNode f1 = mylist.find("Mike");
     System.out.println("f1 finished");
     System.out.println(f1.getData());
 
-    //StringNode f2 = mylist.find("James");
-    //System.out.println("f2 finished");
-    //System.out.println(f2.getData());
+    StringNode f2 = mylist.find("Tom");
+    System.out.println("f2 finished");
+    if (f2 != null) { System.out.println(f2.getData()); }
   }
 };

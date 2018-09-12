@@ -149,8 +149,8 @@ public class ListArray<T> implements Array<T> {
         System.out.println("Printing Array with Iterator");
         Iterator<String> it = mylist.iterator();
         while (it.hasNext()) {
-		    String val = it.next();
-            System.out.println(val);
+		         String val = it.next();
+             System.out.println(val);
         }
 
         //System.out.println("Printing Array with Iterator (using true)");
@@ -161,10 +161,10 @@ public class ListArray<T> implements Array<T> {
         //}
 
 
-        //System.out.println("Printing Array with foreach");
-        //for (String val : mylist) {
-        //    System.out.println(val);
-        //}
+        System.out.println("Printing Array with foreach");
+        for (String val : mylist) {
+            System.out.println(val);
+        }
     }
 
 }
