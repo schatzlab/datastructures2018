@@ -4,9 +4,9 @@ public class FastBuz {
 
   public static int fastbuz(int n) {
     int [] s = new int[n+1];
-    s[1] = 1; s[2] = 1;
+    s[0] = 1; s[1] = 1;
 
-    for (int i = 3; i <= n; i++) {
+    for (int i = 2; i <= n; i++) {
       s[i] = s[i-1] + s[i-2];
     }
 
