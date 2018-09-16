@@ -17,7 +17,7 @@ Class Hours: Monday + Wednesday + Friday @ 1:30p - 2:45p in Mudd 26 <br>
 | Anil Palepu | CA | Tuesday 2 PM - 4:30 PM | Malone 122 (Ugrad Lab) |
 | Darius Irani | CA | Thursday 7 PM - 9 PM | Malone 122 (Ugrad Lab) |
 | Youngsoo Sung | CA | Tuesday 10 AM - 12 PM | Malone 122 (Ugrad Lab) |
-| William Ruppenthal | CA | Wednesday 1 - 2 PM, Sunday 4 - 5 PM | Malone 122 (Ugrad Lab) |
+| William Ruppenthal | CA | Sunday 3 - 5 PM | Malone 122 (Ugrad Lab) |
 
 ---
 
