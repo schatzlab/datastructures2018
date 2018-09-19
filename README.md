@@ -87,7 +87,7 @@ This course covers the design and implementation of data structures including ar
 |5.  | Mon 9/10  | [Iterators](http://schatz-lab.org/datastructures2018/lectures/05.Iterators.pdf) | [Nested Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html) & [Iterator Interface](https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html)
 |6.  | Wed 9/12  | [Complexity Analysis](http://schatz-lab.org/datastructures2018/lectures/06.Complexity.pdf) | [Big O Cheat Sheet](http://bigocheatsheet.com/)
 |7.  | Fri 9/14  | [More Complexity](http://schatz-lab.org/datastructures2018/lectures/07.MoreComplexity.pdf) || [HW 2 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment02)
-|8.  | Mon 9/17  | Sorting
+|8.  | Mon 9/17  | [Sorting](http://schatz-lab.org/datastructures2018/lectures/08.Sorting.pdf)
 |9.  | Wed 9/19  | Stacks
 |10. | Fri 9/21  | Stacks and Queues || HW3 Assigned
 |11. | Mon 9/24  | Stacks, Queues, and Deques
