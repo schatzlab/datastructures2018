@@ -37,22 +37,4 @@ public class TestSimpleArray {
     public void BadLengthArray() throws LengthException {
         Array badarray = new SimpleArray(-10, "Mike");
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

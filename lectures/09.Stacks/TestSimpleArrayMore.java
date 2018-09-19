@@ -40,7 +40,7 @@ public class TestSimpleArrayMore {
     @Test
     public void putandget() {
         shortArray.put(3,"FOO");
-        asssetEquals("FOO", shortArray.get(3));
+        assertEquals("FOO", shortArray.get(3));
     }
 
 
