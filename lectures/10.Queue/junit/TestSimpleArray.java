@@ -37,4 +37,10 @@ public class TestSimpleArray {
     public void BadLengthArray() throws LengthException {
         Array badarray = new SimpleArray(-10, "Mike");
     }
+
+    @Test
+    public void putandget() throws LengthException {
+      shortArray.put(3, "Mike");
+      assertEquals("Mike", shortArray.get(3));
+    }
 }
