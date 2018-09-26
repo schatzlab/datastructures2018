@@ -28,8 +28,8 @@ public class TestList {
     public void testInsertBack () { 
         list.insertBack("Peter"); 
         list.insertBack("Paul");
-        assertEquals ("[Peter, Paul]", list.toString ());
-        assertEquals (2, list.length ());
+        assertEquals("[Peter, Paul]", list.toString ());
+        assertEquals(2, list.length());
     }
 }
 
