@@ -224,7 +224,7 @@
     If you don't write plenty of them, you'll have a much harder time getting
     your code to work.
 
-## Bonus Problem (0%)
+## Bonus Problem (5 pts)
 
   Develop an algebraic specification for the abstract data type `Queue`.
   Use `new`, `empty`, `enqueue`, `dequeue`, and `front` (with the meaning
