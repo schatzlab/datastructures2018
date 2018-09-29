@@ -92,7 +92,7 @@ This course covers the design and implementation of data structures including ar
 |10. | Fri 9/21  | [Stacks and JUnit](http://schatz-lab.org/datastructures2018/lectures/10.StacksJunit.pdf) | [JUnit 4](https://junit.org/junit4/)| [HW3 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment03)
 |11. | Mon 9/24  | [Stacks, Queues, and Deques](http://schatz-lab.org/datastructures2018/lectures/11.Queues.pdf)
 |12. | Wed 9/26  | [Lists](http://schatz-lab.org/datastructures2018/lectures/12.Lists.pdf)
-|13. | Fri 9/28  | More Lists || HW4 Assigned
+|13. | Fri 9/28  | [More Lists](http://schatz-lab.org/datastructures2018/lectures/13.MoreLists.pdf) || [HW4 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment04)
 |14. | Mon 10/1  | Trees
 |15. | Wed 10/3  | More Trees
 |16. | Fri 10/5  | Graphs 
