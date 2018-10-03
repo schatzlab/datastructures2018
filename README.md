@@ -17,7 +17,7 @@ Class Hours: Monday + Wednesday + Friday @ 1:30p - 2:45p in Mudd 26 <br>
 | Anil Palepu | CA | Tuesday 2 PM - 4:30 PM | Malone 122 (Ugrad Lab) |
 | Darius Irani | CA | Thursday 7 PM - 9 PM | Malone 122 (Ugrad Lab) |
 | Youngsoo Sung | CA | Tuesday 10 AM - 12 PM | Malone 122 (Ugrad Lab) |
-| William Ruppenthal | CA | Sunday 3 - 5 PM | Malone 122 (Ugrad Lab) |
+| William Ruppenthal | CA | Wednesday 12 - 1 PM, Friday 12 - 1 PM | Malone 122 (Ugrad Lab) |
 
 ---
 
@@ -93,7 +93,7 @@ This course covers the design and implementation of data structures including ar
 |11. | Mon 9/24  | [Stacks, Queues, and Deques](http://schatz-lab.org/datastructures2018/lectures/11.Queues.pdf)
 |12. | Wed 9/26  | [Lists](http://schatz-lab.org/datastructures2018/lectures/12.Lists.pdf)
 |13. | Fri 9/28  | [More Lists](http://schatz-lab.org/datastructures2018/lectures/13.MoreLists.pdf) || [HW4 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment04)
-|14. | Mon 10/1  | Trees
+|14. | Mon 10/1  | [Trees](http://schatz-lab.org/datastructures2018/lectures/14.Trees.pdf)
 |15. | Wed 10/3  | More Trees
 |16. | Fri 10/5  | Graphs 
 |17. | Mon 10/8  | Midterm Review 1
