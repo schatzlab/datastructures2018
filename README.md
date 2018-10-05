@@ -94,8 +94,8 @@ This course covers the design and implementation of data structures including ar
 |12. | Wed 9/26  | [Lists](http://schatz-lab.org/datastructures2018/lectures/12.Lists.pdf)
 |13. | Fri 9/28  | [More Lists](http://schatz-lab.org/datastructures2018/lectures/13.MoreLists.pdf) || [HW4 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment04)
 |14. | Mon 10/1  | [Trees](http://schatz-lab.org/datastructures2018/lectures/14.Trees.pdf)
-|15. | Wed 10/3  | More Trees
-|16. | Fri 10/5  | Graphs 
+|15. | Wed 10/3  | [Trees and Graphs](http://schatz-lab.org/datastructures2018/lectures/15.Graphs.pdf)
+|16. | Fri 10/5  | Graph Search
 |17. | Mon 10/8  | Midterm Review 1
 |18. | Wed 10/10 | Midterm Review 2
 |19. | Fri 10/12 | **Midterm!**
