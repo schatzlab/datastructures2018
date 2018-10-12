@@ -123,6 +123,6 @@ This course covers the design and implementation of data structures including ar
 |37. | Mon 12/3  | Minimum Spanning trees
 |38. | Wed 12/5  | Union Find
 |39. | Fri 12/7  | Last Day of Class - Review!
-|    | Thr 12/13 | **Final Exam @ 9am - 12n
+|    | Thr 12/13 | **Final Exam @ 9am - 12n**
 
 
