@@ -7,7 +7,7 @@ public final class Unique {
 		data = new ArraySet<Integer>();
 		Scanner scanner = new Scanner(System.in);
 
-        long before = System.nanoTime();
+        //long before = System.nanoTime();
 
 		while (scanner.hasNextInt()) { 
 			int i = scanner.nextInt();
@@ -18,7 +18,7 @@ public final class Unique {
 			System.out.println(i);
 		}
 
-        long duration = System.nanoTime() - before;
-        System.err.println(duration / 1e9);
+        //long duration = System.nanoTime() - before;
+        //System.err.println(duration / 1e9);
 	}
 }
