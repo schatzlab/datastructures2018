@@ -10,7 +10,7 @@ public final class CompareSets {
     private static final int SIZE   = 1000;
 
     @Bench
-    public static void randomArraySet(Bee b) {
+    public void randomArraySet(Bee b) {
       for (int i = 0; i < b.reps(); i++)
       {
         ArraySet<Integer> set = new ArraySet<Integer>();
@@ -23,7 +23,7 @@ public final class CompareSets {
     }
 
     @Bench
-    public static void randomListSet(Bee b) {
+    public void randomListSet(Bee b) {
       for (int i = 0; i < b.reps(); i++)
       {
         ListSet<Integer> set = new ListSet<Integer>();
