@@ -1,6 +1,7 @@
 digraph G {
 A -> C
 A -> D
+A -> E
 B -> D
 B -> E
 C -> F
