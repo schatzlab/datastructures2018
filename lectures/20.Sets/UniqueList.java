@@ -19,6 +19,6 @@ public final class UniqueList {
 		}
 
         long duration = System.nanoTime() - before;
-        System.err.println(duration / 1e9);
+        //System.err.println(duration / 1e9);
 	}
 }
