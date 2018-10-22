@@ -4,7 +4,7 @@ public final class UniqueArrayListSet {
 	private static Set<Integer> data;
 	private UniqueArrayListSet() { }
 	public static void main(String[] args) {
-		data = new ArraySet<Integer>();
+		data = new ArrayListSet<Integer>();
 		Scanner scanner = new Scanner(System.in);
 
         //long before = System.nanoTime();
