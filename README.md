@@ -102,8 +102,8 @@ This course covers the design and implementation of data structures including ar
 |20. | Mon 10/15 | [Sets](http://schatz-lab.org/datastructures2018/lectures/20.Sets.pdf) | [Sets](https://en.wikipedia.org/wiki/Set_(abstract_data_type))
 |21. | Wed 10/17 | Midterm Discussion || [HW5 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment05)
 |    | Fri 10/19 | **Fall Break**
-|22. | Mon 10/22 | Ordered Sets
-|23. | Wed 10/24 | Priority Queues and Heaps
+|22. | Mon 10/22 | [Ordered Sets](http://schatz-lab.org/datastructures2018/lectures/22.OrderedSets.pdf)
+|23. | Wed 10/24 | [Priority Queues and Heaps](http://schatz-lab.org/datastructures2018/lectures/23.Heaps.pdf)
 |24. | Fri 10/26 | Sets of integers, bitsets || HW6 Assigned
 |25. | Mon 10/29 | Maps and BSTs
 |26. | Wed 10/31 | AVL Trees
