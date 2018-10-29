@@ -231,7 +231,6 @@ Go to the assignment 6 page for Gradescope and click submit. Note that you can r
   BinaryHeapPriorityQueue.java
   PriorityQueuesBench.java
   UniqueQueueBU.java (optional)
-  BinaryHeapPriorityQueue.java (optional)
 ```
 
 **Note (especially for Java files) your files must be named exactly as we are expecting them for them to work in the autograder.**
