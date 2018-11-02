@@ -107,7 +107,7 @@ This course covers the design and implementation of data structures including ar
 |24. | Fri 10/26 | [Sets of integers, bitsets](http://schatz-lab.org/datastructures2018/lectures/24.BitSets.pdf) || [HW6 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment06)
 |25. | Mon 10/29 | [Maps](http://schatz-lab.org/datastructures2018/lectures/25.Maps.pdf)
 |26. | Wed 10/31 | [BSTs and AVL Trees](http://schatz-lab.org/datastructures2018/lectures/26.BST.pdf)
-|27. | Fri 11/2  | Treaps || HW7 Assigned
+|27. | Fri 11/2  | [Treaps](http://schatz-lab.org/datastructures2018/lectures/27.Treaps.pdf) || [HW7 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment07)
 |28. | Mon 11/5  | Hash Tables
 |29. | Wed 11/7  | More Hash Tables
 |30. | Fri 11/9  | Advances Hash Tables || HW8 Assigned
