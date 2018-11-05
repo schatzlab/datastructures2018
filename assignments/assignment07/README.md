@@ -180,9 +180,9 @@ the code you're benchmarking.
 "natural language" test data if you would like to play with that.
 I'd suggest
 [Einstein](http://www.gutenberg.org/etext/5001),
-[Kafka](http://www.gutenberg.org/etext/5200),
+[Frankenstein](http://www.gutenberg.org/ebooks/84),
 or
-[Marx](http://www.gutenberg.org/etext/61)
+[Dracula](http://www.gutenberg.org/ebooks/345)
 as simple test cases.
 Religious texts are more voluminous and thus provide more challenging
 test cases, for example
