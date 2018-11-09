@@ -1,4 +1,4 @@
-# Assignment 9: Competitive Spelling Bee
+# Assignment 8: Competitive Spelling Bee
 
 - **Out on:** November 9, 2018
 - **Due by:** November 16, 2018 before 10:00 pm
