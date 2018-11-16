@@ -111,9 +111,9 @@ This course covers the design and implementation of data structures including ar
 |28. | Mon 11/5  | [Hash Tables](http://schatz-lab.org/datastructures2018/lectures/28.HashTables.pdf)
 |29. | Wed 11/7  | [More Hash Tables](http://schatz-lab.org/datastructures2018/lectures/29.HashTables2.pdf)
 |30. | Fri 11/9  | [Advances Hash Tables](http://schatz-lab.org/datastructures2018/lectures/30.AdvHashTables.pdf) || [HW8 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment08)
-|31. | Mon 11/12 | Suffix Arrays
-|32. | Wed 11/14 | Burrow Wheeler Transform
-|33. | Fri 11/16 | Burrow Wheeler Transform 2 || HW9 Assigned
+|31. | Mon 11/12 | [Suffix Arrays](http://schatz-lab.org/datastructures2018/lectures/31.SuffixArrays.pdf)
+|32. | Wed 11/14 | [Burrow Wheeler Transform](http://schatz-lab.org/datastructures2018/lectures/32.BWT.pdf) & [BWT Notes](http://schatz-lab.org/datastructures2018/lectures/32.BWTNotes.pdf)
+|33. | Fri 11/16 | [Burrow Wheeler Transform 2](http://schatz-lab.org/datastructures2018/lectures/33.BWTAssembly.pdf) || [HW9 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment09)
 |    | Mon 11/19 | **Thanksgiving break**
 |    | Wed 11/21 | **Thanksgiving break**
 |    | Fri 11/23 | **Thanksgiving break**
