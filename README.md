@@ -112,12 +112,12 @@ This course covers the design and implementation of data structures including ar
 |29. | Wed 11/7  | [More Hash Tables](http://schatz-lab.org/datastructures2018/lectures/29.HashTables2.pdf)
 |30. | Fri 11/9  | [Advanced Hash Tables](http://schatz-lab.org/datastructures2018/lectures/30.AdvHashTables.pdf) || [HW8 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment08)
 |31. | Mon 11/12 | [Suffix Arrays](http://schatz-lab.org/datastructures2018/lectures/31.SuffixArrays.pdf)
-|32. | Wed 11/14 | [Burrow Wheeler Transform](http://schatz-lab.org/datastructures2018/lectures/32.BWT.pdf) & [BWT Notes](http://schatz-lab.org/datastructures2018/lectures/32.BWTNotes.pdf)
-|33. | Fri 11/16 | [Burrow Wheeler Transform 2](http://schatz-lab.org/datastructures2018/lectures/33.BWTAssembly.pdf) || [HW9 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment09)
+|32. | Wed 11/14 | [Burrows Wheeler Transform](http://schatz-lab.org/datastructures2018/lectures/32.BWT.pdf) & [BWT Notes](http://schatz-lab.org/datastructures2018/lectures/32.BWTNotes.pdf)
+|33. | Fri 11/16 | [Burrows Wheeler Transform 2](http://schatz-lab.org/datastructures2018/lectures/33.BWTAssembly.pdf) || [HW9 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment09)
 |    | Mon 11/19 | **Thanksgiving break**
 |    | Wed 11/21 | **Thanksgiving break**
 |    | Fri 11/23 | **Thanksgiving break**
-|34. | Mon 11/26 | Advanced sorting
+|34. | Mon 11/26 | [Advanced sorting](http://schatz-lab.org/datastructures2018/lectures/34.AdvancedSorting.pdf)
 |35. | Wed 11/28 | Linear time sorting, Topological sorting
 |36. | Fri 11/30 | Shortest Path Problem || HW10 Assigned
 |37. | Mon 12/3  | Minimum Spanning trees
