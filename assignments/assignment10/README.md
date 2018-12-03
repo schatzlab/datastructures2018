@@ -126,6 +126,31 @@ these methods directly. You do not need to submit JUnit test code for
 this file but accuracy will be very important to get Problem 3 correct! For
 this part of the problem you are allowed to use `java.util.PriorityQueue`.
 
+The output should print to standard out the total path distance followed
+by the names of the roads taken. For example, when searching the 
+campus map this would be the path from Malone Hall to the 
+Undergraduate Teaching Labs.
+
+```
+$ java StreetSearcher campus.paths.txt -76.620883,39.326204 -76.620647,39.331158
+Loading network from: campus.paths.txt
+Loaded 330 roads
+Loaded 65 endpoints
+Total Distance: 599.0427883190066
+Malone_Hall--Shriver_Hall 58.16225478578063
+Shaffer_Hall--Shriver_Hall 89.26249532106544
+Maryland_Hall--Shaffer_Hall 90.0868664408058
+Maryland_Hall--Krieger_Hall 69.82039980173397
+Remsen_Hall--Krieger_Hall 94.57560573433979
+Remsen_Hall--Dunning_Hall 84.02193188902837
+Undergraduate_Teaching_Labs--Dunning_Hall 113.11323434625268
+```
+
+If there is no path between the endpoints, your code should print:
+```
+No path found
+```
+
 
 ## Problem 3: Touring around charm city (10%)
 
