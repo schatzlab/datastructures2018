@@ -95,11 +95,6 @@ collection classes `java.util.List`, `java.util.ArrayList`,
 `java.util.LinkedList`, and `java.util.HashMap` to simplify
 your implementation.
 
-As part of your `StringGraph` implementation, you will need **two**
-private nested **or** inner classes, one to represent intersections (vertices), the
-other to represent road segments (edges). You do not need to implement
-an iterator. Note the road segment lengths will need to be stored with the edges.
-
 ### Testing
 
 Your `StreetGraphTest` class should come with a full suite of
@@ -146,8 +141,12 @@ Remsen_Hall--Dunning_Hall 84.02193188902837
 Undergraduate_Teaching_Labs--Dunning_Hall 113.11323434625268
 ```
 
-If there is no path between the endpoints, your code should print:
+If there is no path between the endpoints (shown here as XXX and YYY), your code should print:
 ```
+$ java StreetSearcher campus.paths.txt XXX YYY
+Loading network from: campus.paths.txt
+Loaded 330 roads
+Loaded 65 endpoints
 No path found
 ```
 
