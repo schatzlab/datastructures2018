@@ -120,9 +120,9 @@ This course covers the design and implementation of data structures including ar
 |34. | Mon 11/26 | [Advanced sorting](http://schatz-lab.org/datastructures2018/lectures/34.AdvancedSorting.pdf)
 |35. | Wed 11/28 | [Linear time sorting, Topological sorting](http://schatz-lab.org/datastructures2018/lectures/35.TopologicalSort.pdf)
 |36. | Fri 11/30 | [Shortest Path Problem](http://schatz-lab.org/datastructures2018/lectures/36.Dijkstra.pdf) || [HW10 Assigned](https://github.com/schatzlab/datastructures2018/tree/master/assignments/assignment10)
-|37. | Mon 12/3  | Minimum Spanning trees
-|38. | Wed 12/5  | Union Find
-|39. | Fri 12/7  | Last Day of Class - Review!
+|37. | Mon 12/3  | [Minimum Spanning trees](http://schatz-lab.org/datastructures2018/lectures/37.MST.pdf)
+|38. | Wed 12/5  | [Union Find](http://schatz-lab.org/datastructures2018/lectures/38.UnionFind.pdf)
+|39. | Fri 12/7  | [Last Day of Class - Review!](http://schatz-lab.org/datastructures2018/lectures/39.Review.pdf)
 |    | Thr 12/13 | **Final Exam @ 9am - 12n -- Mudd 26**
 
 
