@@ -1,0 +1,21 @@
+
+Psuedocode for 2 find algorithms
+
+find(l, x) means find element x in list l
+
+ALG 1 O(n)
+find(l, x):
+    for i = 0, 1, ..., length(l):
+        if l[i] == x: RETURN TRUE
+    RETURN FALSE
+
+ALG 2 O(n^2) // Pointless extra loop but demonstrates point
+find(l, x):
+    for i = length(l), lenth(l)-1, ... 0:
+        for j = i, i+1, ... length(l):  // These have already been checked!
+            if l[j] == x: RETURN TRUE
+    RETURN FALSE
+
+
+Now say l looks like this:  [3, 1, 5, 1, 8]
+What happens in each alg for find(l, 8)?

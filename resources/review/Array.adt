@@ -1,0 +1,30 @@
+
+ADT Array
+    uses: Any, Integer
+    defines Array<T: Any>
+
+    operations
+        new: T X Integer ---> Array<T>
+        get: Array<T> X Integer ---> T
+        put: Array<T> X Integer X T ---> Array<T>
+        length: Array<T> ---> Integer
+
+    preconditions
+        new(t, i): i > 0
+        get(a, i): 0 <= i < length(a)
+        put(a, i): 0 <= i < length(a)
+
+    axioms
+        get(new(t, i), j) = t             # new array has default value everywhere
+        length(new(t, i)) = i             # length of new array correct
+        length(get(a, i)) = length(a)     # length unchanged from a get()
+        length(put(a, i, t)) = length(a)  # length unchanged from a put()
+        get(put(a, i, t), i) = t          # FIXME - What's wrong? See below.
+
+
+
+# What if this happened? Would it break the ADT as is?
+a = new(5, 4)       # [5, 5, 5, 5]
+put(a, 2, 7)        # [7, 7, 7, 7]
+
+# Now get(a) would be 7, so get(put(a, i, t), i) still holds
